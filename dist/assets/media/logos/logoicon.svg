@@ -1,0 +1,11 @@
+<svg id="logo_taskez" data-name="logo/taskez" xmlns="http://www.w3.org/2000/svg" width="83.138" height="92.7" viewBox="0 0 83.138 92.7">
+  <g id="logo">
+    <path id="Path" d="M36.236,1.429a10.667,10.667,0,0,1,10.667,0l30.9,17.842a10.667,10.667,0,0,1,5.333,9.238V64.191a10.667,10.667,0,0,1-5.333,9.238L46.9,91.271a10.667,10.667,0,0,1-10.667,0L5.333,73.429A10.667,10.667,0,0,1,0,64.191V28.508a10.667,10.667,0,0,1,5.333-9.238Z" fill="#0030a9"/>
+    <path id="Path-2" data-name="Path" d="M.5,0V30" transform="translate(37.736 29.683)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.333"/>
+    <path id="Path-3" data-name="Path" d="M.5,0V13.333" transform="translate(31.069 39.683)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.333" opacity="0.5"/>
+    <path id="Path-4" data-name="Path" d="M.5,0V3.333" transform="translate(24.403 44.683)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.333" opacity="0.3"/>
+    <path id="Path-5" data-name="Path" d="M.5,0V30" transform="translate(44.403 33.016)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.333"/>
+    <path id="Path-6" data-name="Path" d="M.5,0V13.333" transform="translate(51.069 39.683)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.333" opacity="0.3"/>
+    <path id="Path-7" data-name="Path" d="M.5,0V3.333" transform="translate(57.736 44.683)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.333" opacity="0.3"/>
+  </g>
+</svg>
